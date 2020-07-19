@@ -1,6 +1,6 @@
 a = 34
 b = 35
-c = a + b
+answer = a + b
 
 
-print(c)
+print(answer)
